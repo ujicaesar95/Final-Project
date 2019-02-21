@@ -1,0 +1,71 @@
+def effects1_1(cols):
+    Effects1 = cols['Effects1']
+
+if Effects1 == 'Aroused':
+        return 1
+    elif Effects1 == 'Creative':
+        return 1
+    elif Effects1 == 'Dry' :
+        return 1
+    elif Effects1 == 'Energetic' :
+        return 1
+    elif Effects1 == 'Euphoric' :
+        return 1
+    elif Effects1 == 'Focused' :
+        return 1
+    elif Effects1 == 'Giggly' :
+        return 1
+    elif Effects1 == 'Happy' :
+        return 1
+    elif Effects1 == 'Hungry' :
+        return 1
+    elif Effects1 == 'None' :
+        return 1
+    elif Effects1 == 'Relaxed' :
+        return 1
+    elif Effects1 == 'Sleepy' :
+        return 1
+    elif Effects1 == 'Talkative' :
+        return 1
+    elif Effects1 == 'Tingly' :
+        return 1
+    elif Effects1 == 'Uplifted' :
+        return 1
+    else :
+        return 0
+
+Flavor :
+
+'Citrus', 'Diesel', 'Woody', 'Grapefruit', 'Orange', 'None',
+       'Pungent', 'Earthy', 'Flowery', 'Sweet', 'Skunk', 'Pine', 'Berry',
+       'Cheese', 'Spicy/Herbal', 'Lemon', 'Peach', 'Chemical', 'Chestnut',
+       'Tea', 'Pepper', 'Tropical', 'Grape', 'Blueberry', 'Apple', 'Sage',
+       'Lime', 'Tobacco', 'Mint', 'Nutty', 'Coffee', 'Lavender', 'Tree',
+       'Vanilla', 'Fruit', 'Mango', 'Butter', 'Blue', 'Menthol', 'Tar',
+       'Honey', 'Ammonia', 'Rose', 'Pineapple', 'Minty', 'Apricot',
+       'Strawberry', 'Violet', 'Pear'
+
+
+Rating :
+
+{'label' : '3.', 'value' : '3.'},
+                            {'label' : '3.1', 'value' : '3.1'},
+                            {'label' : '3.2', 'value' : '3.2'},
+                            {'label' : '3.3', 'value' : '3.3'},
+                            {'label' : '3.4', 'value' : '3.4'},
+                            {'label' : '3.5', 'value' : '3.5'},
+                            {'label' : '3.6', 'value' : '3.6'},
+                            {'label' : '3.7', 'value' : '3.7'},
+                            {'label' : '3.8', 'value' : '3.8'},
+                            {'label' : '3.9', 'value' : '3.9'},
+                            {'label' : '4.', 'value' : '4.'},
+                            {'label' : '4.1', 'value' : '4.1'},
+                            {'label' : '4.2', 'value' : '4.2'},
+                            {'label' : '4.3', 'value' : '4.3'},
+                            {'label' : '4.4', 'value' : '4.4'},
+                            {'label' : '4.5', 'value' : '4.5'},
+                            {'label' : '4.6', 'value' : '4.6'},
+                            {'label' : '4.7', 'value' : '4.7'},
+                            {'label' : '4.8', 'value' : '4.8'},
+                            {'label' : '4.9', 'value' : '4.9'},
+                            {'label' : '5.', 'value' : '5.'},
